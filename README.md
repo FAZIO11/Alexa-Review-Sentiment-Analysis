@@ -1,5 +1,8 @@
 # Sentiment Analysis of Amazon Alexa Reviews
 
+## Video Demo:
+<URL HERE>
+
 ## Project Overview
 
 This project aims to develop and deploy a sentiment analysis model to classify Amazon Alexa product reviews as positive or negative. The model will help users understand the overall sentiment towards Alexa products and identify areas for improvement.
