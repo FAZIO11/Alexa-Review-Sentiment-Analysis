@@ -11,7 +11,9 @@ The objective is to build a machine learning model capable of automatically clas
 ## Methodology
 
 ### Data Acquisition
-The dataset consists of Amazon Alexa product reviews retrieved from [source of data].
+The dataset consists of Amazon Alexa product reviews retrieved from Kaggle (https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews).The dataset consists of a nearly 3000 Amazon customer reviews, star ratings, date of review, variant and feedback of various amazon Alexa products like Alexa Echo, Echo dots, Alexa Firesticks etc. for learning how to train Machine for sentiment analysis.
+
+
 
 ### Data Preprocessing
 1. **Removing Stop Words**: Eliminated common words with minimal impact on sentiment.
@@ -36,7 +38,7 @@ Deployed the sentiment analysis model as a web application using Flask.
 
 ## Results and Discussion
 
-The sentiment analysis model achieved an accuracy of [mention accuracy] on the testing set. [mention other evaluation metrics]. The deployed Flask application offers a user-friendly interface for sentiment analysis.
+The sentiment analysis model was evaluated using common metrics such as precision, recall, and F1-score. These metrics provide insights into the model's performance in classifying positive and negative reviews.The deployed Flask application offers a user-friendly interface for sentiment analysis.
 
 ## Limitations and Future Work
 
@@ -68,11 +70,4 @@ This project develops a sentiment analysis model for Amazon Alexa product review
 4. Train the model using `train_model.py`.
 5. Evaluate the model with `evaluate_model.py`.
 6. Deploy the Flask application using `app.py`.
-
-### Contributors
-- [Your Name]
-- [Other Contributors]
-
-### License
-This project is licensed under the [License Name] License.
 
