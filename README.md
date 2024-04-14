@@ -7,6 +7,9 @@
 
 This project aims to develop and deploy a sentiment analysis model to classify Amazon Alexa product reviews as positive or negative. The model will help users understand the overall sentiment towards Alexa products and identify areas for improvement.
 
+## How the model works!
+![model-functionality](https://github.com/FAZIO11/Alexa-Review-Sentiment-Analysis/assets/108901411/d185ac62-08c2-4c60-aa06-abb03093af7d)
+
 ## Problem Formulation
 
 The objective is to build a machine learning model capable of automatically classifying Amazon Alexa product reviews as positive or negative based on their textual content.
