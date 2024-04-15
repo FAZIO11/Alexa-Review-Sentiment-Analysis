@@ -1,7 +1,5 @@
 # Sentiment Analysis of Amazon Alexa Reviews
 
-## Video Demo:
-<URL HERE>
 
 ## Project Overview
 
